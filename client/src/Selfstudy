@@ -1,0 +1,18 @@
+Why would you use class component over function components (removing hooks from the question)?
+ 
+I would need a class component to utilize state and pass it down to child components.
+
+ Name three lifecycle methods and their purposes.
+
+1.Render : Render handles the rendering of your component to your UI 
+2.componentDidMount : componentDidMount is used commonly to make API calls when the component is mounted 
+3.componentDidUpdate : used to make changes to the dom after the change of props or state
+
+
+ What is the purpose of a custom hook?
+
+Custom hooks are a convenient tool to resuse common logic without 
+
+ Why is it important to test our app
+
+ Testing reduces the chances of bug and errors in development 
